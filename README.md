@@ -12,9 +12,18 @@ React + Flask
 
 Animation about the app:
 
-![AppAnimation](C:/Users/Administrator/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%8A%A8%E7%94%BB.gif)
+![AppAnimation](https://github.com/hyqshr/OA-Zero/blob/main/AppAnimation.gif)
+
+
 
 ## Frontend
+
+### overview
+
+- axios for request backend server
+- react-bootstrap form
+
+### setup
 
 Enter the folder
 
@@ -31,6 +40,14 @@ npm i && npm start
 
 
 ## Backend
+
+### overview
+
+- implement pig latin algorithm
+- avoid CORS 
+- process json from frontend and return a json
+
+### setup
 
 ```
 cd backend
